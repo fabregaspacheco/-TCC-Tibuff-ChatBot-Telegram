@@ -1,0 +1,1 @@
+Favor responda, "Sim", "Nao" ou "Continuar". Para cancelar digite **Cancelar**

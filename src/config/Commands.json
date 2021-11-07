@@ -1,0 +1,37 @@
+[
+  {
+    "index": "0",
+    "command": "start",
+    "keysWords": ["bom dia", "boa tarde", "boa noite", "oi", "ola"]
+  },
+  {
+    "index": "1",
+    "command": "pc",
+    "keysWords": ["orcamento", "pc", "laptop"]
+  },
+  {
+    "index": "2",
+    "command": "promocao",
+    "keysWords": ["promocao"]
+  },
+  {
+    "index": "3",
+    "command": "servicos",
+    "keysWords": ["limpeza", "manutencao", "servico"]
+  },
+  {
+    "index": "4",
+    "command": "garantia",
+    "keysWords": ["garantia"]
+  },
+  {
+    "index": "5",
+    "command": "contato",
+    "keysWords": ["contato", "parceria"]
+  },
+  {
+    "index": "6",
+    "command": "suporte",
+    "keysWords": ["duvida", "ajuda", "suporte"]
+  }
+]
